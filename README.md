@@ -59,7 +59,6 @@ This repository contains practical assignments for the **Data Preprocessing (DS1
   - `Model.ipynb` - Main machine learning models
   - `PreprocessPILOT.ipynb` - Data preprocessing
   - `ReprocessData.ipynb` - Data reprocessing
-  - `full.ipynb` - Complete pipeline
 
 ### 📏 **Lab 5 (TH5) - Statistical Evaluation**
 **Description**: Statistical evaluation with Cohen's Kappa
